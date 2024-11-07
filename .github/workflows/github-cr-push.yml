@@ -8,7 +8,7 @@ on:
 
 env:
     NAME: my-fastapi-app
-    NAMESPACE: xxblackmasterxx
+    NAMESPACE: ennoven
     ORG: ghcr.io
     TAG: latest
 
